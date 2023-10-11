@@ -1,0 +1,2 @@
+ninja: Entering directory `D:\fcis\Last Year\Graduation Project\OpenCvApp\openCV\.cxx\Debug\2i3m4u18\armeabi-v7a'
+ninja: no work to do.

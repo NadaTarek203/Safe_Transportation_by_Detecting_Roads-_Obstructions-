@@ -1,0 +1,15 @@
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 54ms]
+  create-invalidation-state 65ms
+  generate-extra-metadata-files 53ms
+  [gap of 27ms]
+generate_cxx_metadata completed in 204ms
+
+# C/C++ build system timings
+generate_cxx_metadata
+  [gap of 13ms]
+  generate-extra-metadata-files 163ms
+  [gap of 16ms]
+generate_cxx_metadata completed in 192ms
+
